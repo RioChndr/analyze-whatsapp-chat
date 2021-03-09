@@ -21,7 +21,7 @@ pip install emoji
 
 ## Run
 
-Siapkan file `db_chat_wa.txt` 
+Siapkan file `db_chat_wa.txt` dan letakkan di folder projek ini.
 
 Jalankan jupyter
 
